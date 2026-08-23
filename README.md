@@ -14,7 +14,7 @@
 
 📫 Contato
 
-<p align="left"> <a href=" (https://www.linkedin.com/in/luis-gustavo-dos-santos-80a95614a/)"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="mailto:luisgustavodossantos1980@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/luis-gustavo-dos-santos-80a95614a/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="mailto:luisgustavodossantos1980@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
 ⭐ Obrigado por visitar meu perfil!
 
