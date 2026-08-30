@@ -1,4 +1,4 @@
-## Olá! Eu sou Gustavo 👋
+## Olá! Sejam bem-vindos(as) ao meu Git! Eu sou o Luis Gustavo! 👋
 
 🎓 Sou estudante de Desenvolvimento de Sistemas, pela ETEC Prof. Carmelino Correa Júnior (Franca SP), atuo desde de 2014 na área de TI com experiência em: Suporte TI e Segurança da Informação.
 
