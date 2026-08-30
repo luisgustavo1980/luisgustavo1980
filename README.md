@@ -1,8 +1,8 @@
 ## Olá! Eu sou Gustavo 👋
 
-🎓 Sou estudante de Desenvolvimento de Sistema, pela ETEC Prof. Carmelino Correa Júnior (Franca SP), já tendo experiência na área de TI relacionado a Suporte e Segurança da Informação.
+🎓 Sou estudante de Desenvolvimento de Sistemas, pela ETEC Prof. Carmelino Correa Júnior (Franca SP), atuo desde de 2014 na área de TI com experiência em: Suporte TI e Segurança da Informação.
 
-💻 Atualmente estou estudando programação e desenvolvimento de aplicações, buscando aprimorar meus conhecimentos e desenvolver projetos práticos.
+💻 Atualmente estou estudando programação e desenvolvimento de aplicações, buscando aprimorar meus conhecimentos, desenvolver projetos práticos e dessa forma iniciar minha atuação em mais um braço da Tecnologia da Informação, que é o Desenvolvimento de Sistemas.
 
 🚀 Tecnologias que estou estudando:
 
